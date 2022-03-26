@@ -5,7 +5,7 @@
   "scripts": {
     "cucumber": "cucumber-js src/features/**/*.feature --require-module ts-node/register --require src/step-definitions/**/**/*.ts"
   },
-  "author": "",
+  "author": "John Nguyen",
   "license": "ISC",
   "devDependencies": {
     "@cucumber/cucumber": "^7.3.2",
