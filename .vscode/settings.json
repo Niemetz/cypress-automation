@@ -1,8 +1,8 @@
 {
     "cucumberautocomplete.steps": [
-        "e2e/integration/step-definitions/**/*.ts"
+        "e2e/src/step-definitions/**/*.ts"
     ],
-    "cucumberautocomplete.syncfeatures": "e2e/integration/features/*.feature",
+    "cucumberautocomplete.syncfeatures": "e2e/src/features/*.feature",
     "cucumberautocomplete.strictGherkinCompletion": true,
     "cucumberautocomplete.strictGherkinValidation": true,
     "cucumberautocomplete.smartSnippets": true,
